@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "HomeWorkAfterLesson19FinalProject",
+      "children" : [ {
+        "name" : "tests.ListTitleTest",
+        "children" : [ {
+          "name" : "findStrRefactTest",
+          "uid" : "cb823e2fa4b3ec0",
+          "parentUid" : "5ab79ab4009dc79a94cafd72c5e09de3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581373820816,
+            "stop" : 1581373844328,
+            "duration" : 23512
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
+        }, {
+          "name" : "listTitleMessageButtonsQuestionTest",
+          "uid" : "3e8464c85914dec1",
+          "parentUid" : "5ab79ab4009dc79a94cafd72c5e09de3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581373859374,
+            "stop" : 1581373876843,
+            "duration" : 17469
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "listTitleMessageButtonsTest",
+          "uid" : "4be5c964efea17c3",
+          "parentUid" : "5ab79ab4009dc79a94cafd72c5e09de3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581373892314,
+            "stop" : 1581373909264,
+            "duration" : 16950
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "searchButtonTest",
+          "uid" : "918d811b0a7d14d6",
+          "parentUid" : "5ab79ab4009dc79a94cafd72c5e09de3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581373925507,
+            "stop" : 1581373943293,
+            "duration" : 17786
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5ab79ab4009dc79a94cafd72c5e09de3"
+      } ],
+      "uid" : "a3649ed6ec09bd3f6957165bc220e198"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  } ]
+}

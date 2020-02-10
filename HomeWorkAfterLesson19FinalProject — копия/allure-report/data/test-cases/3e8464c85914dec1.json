@@ -1,0 +1,99 @@
+{
+  "uid" : "3e8464c85914dec1",
+  "name" : "listTitleMessageButtonsQuestionTest",
+  "fullName" : "tests.ListTitleTest.listTitleMessageButtonsQuestionTest",
+  "historyId" : "c0dff42d16aa28973aaf0ed100eb21ac",
+  "time" : {
+    "start" : 1581373859374,
+    "stop" : 1581373876843,
+    "duration" : 17469
+  },
+  "description" : "Проверяем наличие вопроса после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS",
+  "descriptionHtml" : "<p>Проверяем наличие вопроса после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581373844540,
+      "stop" : 1581373854366,
+      "duration" : 9826
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581373876844,
+      "stop" : 1581373877067,
+      "duration" : 223
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "listTitleMessageButtonsQuestionTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "HomeWorkAfterLesson19FinalProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Viktoria.local"
+  }, {
+    "name" : "thread",
+    "value" : "46134@MacBook-Pro-Viktoria.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "раздел Lists"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e8464c85914dec1.json",
+  "parameterValues" : [ ]
+}

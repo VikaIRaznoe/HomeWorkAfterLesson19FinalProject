@@ -1,0 +1,102 @@
+{
+  "uid" : "cb823e2fa4b3ec0",
+  "name" : "findStrRefactTest",
+  "fullName" : "tests.ListTitleTest.findStrRefactTest",
+  "historyId" : "e8486c4998f7472e28a95bd9c249e94",
+  "time" : {
+    "start" : 1581373820816,
+    "stop" : 1581373844328,
+    "duration" : 23512
+  },
+  "description" : "После нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS,появляется окно со списком,проверяем список на наличие нужных слов",
+  "descriptionHtml" : "<p>После нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS,появляется окно со списком,проверяем список на наличие нужных слов</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581373798364,
+      "stop" : 1581373810686,
+      "duration" : 12322
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581373844336,
+      "stop" : 1581373844539,
+      "duration" : 203
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "findStrRefactTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "HomeWorkAfterLesson19FinalProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.ListTitleTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Viktoria.local"
+  }, {
+    "name" : "thread",
+    "value" : "46134@MacBook-Pro-Viktoria.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "раздел Lists"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Twitter,Google+,Instagram,Facebook"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb823e2fa4b3ec0.json",
+  "parameterValues" : [ "Twitter,Google+,Instagram,Facebook" ]
+}

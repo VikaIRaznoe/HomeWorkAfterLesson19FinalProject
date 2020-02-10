@@ -1,0 +1,41 @@
+[ {
+  "uid" : "3e8464c85914dec1",
+  "name" : "listTitleMessageButtonsQuestionTest",
+  "time" : {
+    "start" : 1581373859374,
+    "stop" : 1581373876843,
+    "duration" : 17469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb823e2fa4b3ec0",
+  "name" : "findStrRefactTest",
+  "time" : {
+    "start" : 1581373820816,
+    "stop" : 1581373844328,
+    "duration" : 23512
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "918d811b0a7d14d6",
+  "name" : "searchButtonTest",
+  "time" : {
+    "start" : 1581373925507,
+    "stop" : 1581373943293,
+    "duration" : 17786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4be5c964efea17c3",
+  "name" : "listTitleMessageButtonsTest",
+  "time" : {
+    "start" : 1581373892314,
+    "stop" : 1581373909264,
+    "duration" : 16950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
