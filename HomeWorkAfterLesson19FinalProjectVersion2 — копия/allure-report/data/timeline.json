@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-Viktoria.local",
+    "children" : [ {
+      "name" : "40559@MacBook-Pro-Viktoria.local.main(1)",
+      "children" : [ {
+        "name" : "findStrRefactTest",
+        "uid" : "106e788708c8e204",
+        "parentUid" : "693c80924358c52465abf2216a37c382",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581365363393,
+          "stop" : 1581365386158,
+          "duration" : 22765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
+      }, {
+        "name" : "searchButtonTest",
+        "uid" : "347be6875f1b7204",
+        "parentUid" : "693c80924358c52465abf2216a37c382",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581365467677,
+          "stop" : 1581365485604,
+          "duration" : 17927
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "listTitleMessageButtonsTest",
+        "uid" : "85e131a5bdb647d3",
+        "parentUid" : "693c80924358c52465abf2216a37c382",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581365436305,
+          "stop" : 1581365453508,
+          "duration" : 17203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "listTitleMessageButtonsQuestionTest",
+        "uid" : "7d34884db4544341",
+        "parentUid" : "693c80924358c52465abf2216a37c382",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581365402450,
+          "stop" : 1581365420041,
+          "duration" : 17591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "693c80924358c52465abf2216a37c382"
+    } ],
+    "uid" : "216f544ce3ec8fb342fa592298c1e1d8"
+  } ]
+}

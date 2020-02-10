@@ -1,0 +1,102 @@
+{
+  "uid" : "347be6875f1b7204",
+  "name" : "searchButtonTest",
+  "fullName" : "tests.punkts.ListTitleMessageButtonsTest.searchButtonTest",
+  "historyId" : "8a8a1aa0628e2998123433a120c67beb",
+  "time" : {
+    "start" : 1581365467677,
+    "stop" : 1581365485604,
+    "duration" : 17927
+  },
+  "description" : "Проверяем наличие,НЕ РАБОТУ, кнопки Disagree после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS",
+  "descriptionHtml" : "<p>Проверяем наличие,НЕ РАБОТУ, кнопки Disagree после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581365453597,
+      "stop" : 1581365462673,
+      "duration" : 9076
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581365485605,
+      "stop" : 1581365485782,
+      "duration" : 177
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.punkts.ListTitleMessageButtonsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.punkts.ListTitleMessageButtonsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "searchButtonTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "HomeWorkAfterLesson19FinalProjectVersion2"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.punkts.ListTitleMessageButtonsTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Viktoria.local"
+  }, {
+    "name" : "thread",
+    "value" : "40559@MacBook-Pro-Viktoria.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "раздел Lists"
+  }, {
+    "name" : "feature",
+    "value" : "кнопка LIST + TITLE + MESSAGE + BUTTONS"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "347be6875f1b7204.json",
+  "parameterValues" : [ ]
+}

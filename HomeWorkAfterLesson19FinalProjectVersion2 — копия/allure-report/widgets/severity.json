@@ -1,0 +1,41 @@
+[ {
+  "uid" : "85e131a5bdb647d3",
+  "name" : "listTitleMessageButtonsTest",
+  "time" : {
+    "start" : 1581365436305,
+    "stop" : 1581365453508,
+    "duration" : 17203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "347be6875f1b7204",
+  "name" : "searchButtonTest",
+  "time" : {
+    "start" : 1581365467677,
+    "stop" : 1581365485604,
+    "duration" : 17927
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "106e788708c8e204",
+  "name" : "findStrRefactTest",
+  "time" : {
+    "start" : 1581365363393,
+    "stop" : 1581365386158,
+    "duration" : 22765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d34884db4544341",
+  "name" : "listTitleMessageButtonsQuestionTest",
+  "time" : {
+    "start" : 1581365402450,
+    "stop" : 1581365420041,
+    "duration" : 17591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
