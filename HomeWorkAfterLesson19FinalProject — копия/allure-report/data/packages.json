@@ -2,60 +2,60 @@
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
   "children" : [ {
-    "name" : "tests.ListTitleTest",
+    "name" : "tests.punkts.Lists.ListsTest",
     "children" : [ {
       "name" : "findStrRefactTest",
-      "uid" : "cb823e2fa4b3ec0",
-      "parentUid" : "7a79e2047a2596e07a11812617e1dbb9",
+      "uid" : "52cec52b43134efd",
+      "parentUid" : "95714e2a81a349ea23769e11da91abbc",
       "status" : "passed",
       "time" : {
-        "start" : 1581373820816,
-        "stop" : 1581373844328,
-        "duration" : 23512
+        "start" : 1581375328321,
+        "stop" : 1581375350970,
+        "duration" : 22649
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
     }, {
       "name" : "listTitleMessageButtonsQuestionTest",
-      "uid" : "3e8464c85914dec1",
-      "parentUid" : "7a79e2047a2596e07a11812617e1dbb9",
+      "uid" : "f2b5c3dd96325fe4",
+      "parentUid" : "95714e2a81a349ea23769e11da91abbc",
       "status" : "passed",
       "time" : {
-        "start" : 1581373859374,
-        "stop" : 1581373876843,
-        "duration" : 17469
+        "start" : 1581375365058,
+        "stop" : 1581375382908,
+        "duration" : 17850
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "listTitleMessageButtonsTest",
-      "uid" : "4be5c964efea17c3",
-      "parentUid" : "7a79e2047a2596e07a11812617e1dbb9",
+      "uid" : "9d65dbae7142babd",
+      "parentUid" : "95714e2a81a349ea23769e11da91abbc",
       "status" : "passed",
       "time" : {
-        "start" : 1581373892314,
-        "stop" : 1581373909264,
-        "duration" : 16950
+        "start" : 1581375399285,
+        "stop" : 1581375416013,
+        "duration" : 16728
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "searchButtonTest",
-      "uid" : "918d811b0a7d14d6",
-      "parentUid" : "7a79e2047a2596e07a11812617e1dbb9",
+      "uid" : "fb50e61b1f469e3e",
+      "parentUid" : "95714e2a81a349ea23769e11da91abbc",
       "status" : "passed",
       "time" : {
-        "start" : 1581373925507,
-        "stop" : 1581373943293,
-        "duration" : 17786
+        "start" : 1581375432271,
+        "stop" : 1581375449672,
+        "duration" : 17401
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     } ],
-    "uid" : "tests.ListTitleTest"
+    "uid" : "tests.punkts.Lists.ListsTest"
   } ]
 }

@@ -1,8 +1,10 @@
-package tests;
+package tests.punkts.SingleChoiceLists;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.qameta.allure.Description;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -37,10 +39,12 @@ public class SingleChoiceListsTest {
         driver.quit();
     }
 
+    @Severity(SeverityLevel.BLOCKER)
     @Test
     @Description(value = "Проверяем кликабельность кнопки")
     public void singleChoiceListsButtonsTest() throws InterruptedException {
         SingleChoiceListsScreen singleChoiceListsScreen = new SingleChoiceListsScreen(driver);
         singleChoiceListsScreen.clickButton();
     }
+
 }

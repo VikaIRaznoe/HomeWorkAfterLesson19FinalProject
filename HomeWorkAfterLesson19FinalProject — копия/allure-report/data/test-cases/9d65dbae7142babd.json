@@ -1,24 +1,24 @@
 {
-  "uid" : "3e8464c85914dec1",
-  "name" : "listTitleMessageButtonsQuestionTest",
-  "fullName" : "tests.ListTitleTest.listTitleMessageButtonsQuestionTest",
-  "historyId" : "c0dff42d16aa28973aaf0ed100eb21ac",
+  "uid" : "9d65dbae7142babd",
+  "name" : "listTitleMessageButtonsTest",
+  "fullName" : "tests.punkts.Lists.ListsTest.listTitleMessageButtonsTest",
+  "historyId" : "950043b00250e5cdc922fbccf84186d7",
   "time" : {
-    "start" : 1581373859374,
-    "stop" : 1581373876843,
-    "duration" : 17469
+    "start" : 1581375399285,
+    "stop" : 1581375416013,
+    "duration" : 16728
   },
-  "description" : "Проверяем наличие вопроса после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS",
-  "descriptionHtml" : "<p>Проверяем наличие вопроса после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS</p>\n",
+  "description" : "Проверяем кликабельность кнопки",
+  "descriptionHtml" : "<p>Проверяем кликабельность кнопки</p>\n",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "setUp",
     "time" : {
-      "start" : 1581373844540,
-      "stop" : 1581373854366,
-      "duration" : 9826
+      "start" : 1581375383137,
+      "stop" : 1581375394277,
+      "duration" : 11140
     },
     "description" : "",
     "status" : "passed",
@@ -33,9 +33,9 @@
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1581373876844,
-      "stop" : 1581373877067,
-      "duration" : 223
+      "start" : 1581375416014,
+      "stop" : 1581375416123,
+      "duration" : 109
     },
     "description" : "",
     "status" : "passed",
@@ -49,13 +49,13 @@
   } ],
   "labels" : [ {
     "name" : "package",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testClass",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testMethod",
-    "value" : "listTitleMessageButtonsQuestionTest"
+    "value" : "listTitleMessageButtonsTest"
   }, {
     "name" : "parentSuite",
     "value" : "Default Suite"
@@ -64,13 +64,13 @@
     "value" : "HomeWorkAfterLesson19FinalProject"
   }, {
     "name" : "subSuite",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "host",
     "value" : "MacBook-Pro-Viktoria.local"
   }, {
     "name" : "thread",
-    "value" : "46134@MacBook-Pro-Viktoria.local.main(1)"
+    "value" : "47739@MacBook-Pro-Viktoria.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -78,8 +78,14 @@
     "name" : "language",
     "value" : "java"
   }, {
+    "name" : "feature",
+    "value" : "кнопка LIST + TITLE + MESSAGE + BUTTONS"
+  }, {
     "name" : "epic",
     "value" : "раздел Lists"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
@@ -89,11 +95,11 @@
   "hidden" : false,
   "retry" : false,
   "extra" : {
-    "severity" : "normal",
+    "severity" : "blocker",
     "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "3e8464c85914dec1.json",
+  "source" : "9d65dbae7142babd.json",
   "parameterValues" : [ ]
 }

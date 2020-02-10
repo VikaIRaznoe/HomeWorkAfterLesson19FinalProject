@@ -1,12 +1,12 @@
 {
-  "uid" : "918d811b0a7d14d6",
+  "uid" : "fb50e61b1f469e3e",
   "name" : "searchButtonTest",
-  "fullName" : "tests.ListTitleTest.searchButtonTest",
-  "historyId" : "afc26600b3ba148e1fc1219000dbe0a1",
+  "fullName" : "tests.punkts.Lists.ListsTest.searchButtonTest",
+  "historyId" : "596e397aa17783e7f23c6454d21cf8af",
   "time" : {
-    "start" : 1581373925507,
-    "stop" : 1581373943293,
-    "duration" : 17786
+    "start" : 1581375432271,
+    "stop" : 1581375449672,
+    "duration" : 17401
   },
   "description" : "Проверяем наличие,НЕ РАБОТУ, кнопки Disagree после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS",
   "descriptionHtml" : "<p>Проверяем наличие,НЕ РАБОТУ, кнопки Disagree после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS</p>\n",
@@ -16,9 +16,9 @@
   "beforeStages" : [ {
     "name" : "setUp",
     "time" : {
-      "start" : 1581373909372,
-      "stop" : 1581373920498,
-      "duration" : 11126
+      "start" : 1581375416124,
+      "stop" : 1581375427263,
+      "duration" : 11139
     },
     "description" : "",
     "status" : "passed",
@@ -33,9 +33,9 @@
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1581373943294,
-      "stop" : 1581373943453,
-      "duration" : 159
+      "start" : 1581375449673,
+      "stop" : 1581375449927,
+      "duration" : 254
     },
     "description" : "",
     "status" : "passed",
@@ -49,10 +49,10 @@
   } ],
   "labels" : [ {
     "name" : "package",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testClass",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testMethod",
     "value" : "searchButtonTest"
@@ -64,13 +64,13 @@
     "value" : "HomeWorkAfterLesson19FinalProject"
   }, {
     "name" : "subSuite",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "host",
     "value" : "MacBook-Pro-Viktoria.local"
   }, {
     "name" : "thread",
-    "value" : "46134@MacBook-Pro-Viktoria.local.main(1)"
+    "value" : "47739@MacBook-Pro-Viktoria.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -80,6 +80,12 @@
   }, {
     "name" : "epic",
     "value" : "раздел Lists"
+  }, {
+    "name" : "feature",
+    "value" : "кнопка LIST + TITLE + MESSAGE + BUTTONS"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
@@ -94,6 +100,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "918d811b0a7d14d6.json",
+  "source" : "fb50e61b1f469e3e.json",
   "parameterValues" : [ ]
 }

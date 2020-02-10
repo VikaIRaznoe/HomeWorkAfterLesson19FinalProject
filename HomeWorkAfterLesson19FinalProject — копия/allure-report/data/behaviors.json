@@ -4,57 +4,61 @@
   "children" : [ {
     "name" : "раздел Lists",
     "children" : [ {
-      "name" : "findStrRefactTest",
-      "uid" : "cb823e2fa4b3ec0",
-      "parentUid" : "b3039429ae2a621ff3bb152efa3410bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581373820816,
-        "stop" : 1581373844328,
-        "duration" : 23512
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
-    }, {
-      "name" : "listTitleMessageButtonsQuestionTest",
-      "uid" : "3e8464c85914dec1",
-      "parentUid" : "b3039429ae2a621ff3bb152efa3410bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581373859374,
-        "stop" : 1581373876843,
-        "duration" : 17469
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "listTitleMessageButtonsTest",
-      "uid" : "4be5c964efea17c3",
-      "parentUid" : "b3039429ae2a621ff3bb152efa3410bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581373892314,
-        "stop" : 1581373909264,
-        "duration" : 16950
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "searchButtonTest",
-      "uid" : "918d811b0a7d14d6",
-      "parentUid" : "b3039429ae2a621ff3bb152efa3410bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1581373925507,
-        "stop" : 1581373943293,
-        "duration" : 17786
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
+      "name" : "кнопка LIST + TITLE + MESSAGE + BUTTONS",
+      "children" : [ {
+        "name" : "findStrRefactTest",
+        "uid" : "52cec52b43134efd",
+        "parentUid" : "9113a58b1f679000cbe78fa8142c88e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375328321,
+          "stop" : 1581375350970,
+          "duration" : 22649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
+      }, {
+        "name" : "listTitleMessageButtonsQuestionTest",
+        "uid" : "f2b5c3dd96325fe4",
+        "parentUid" : "9113a58b1f679000cbe78fa8142c88e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375365058,
+          "stop" : 1581375382908,
+          "duration" : 17850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "listTitleMessageButtonsTest",
+        "uid" : "9d65dbae7142babd",
+        "parentUid" : "9113a58b1f679000cbe78fa8142c88e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375399285,
+          "stop" : 1581375416013,
+          "duration" : 16728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "searchButtonTest",
+        "uid" : "fb50e61b1f469e3e",
+        "parentUid" : "9113a58b1f679000cbe78fa8142c88e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375432271,
+          "stop" : 1581375449672,
+          "duration" : 17401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9113a58b1f679000cbe78fa8142c88e2"
     } ],
     "uid" : "b3039429ae2a621ff3bb152efa3410bd"
   } ]

@@ -60,7 +60,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/ListTitleScreen.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/ListsScreen.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
               <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
@@ -90,10 +90,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/ListTitleTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/Lists/ListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+            <state relative-caret-position="155">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#setUp#0;class#ListTitleTest#0" />
@@ -103,13 +103,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/SingleChoiceListsTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/SingleChoiceLists/SingleChoiceListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="219">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#setUp#0;class#SingleChoiceLists#0" />
+                <element signature="method#setUp#0;class#SingleChoiceListsTest#0" />
               </folding>
             </state>
           </provider>
@@ -156,12 +156,15 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/BaseScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/testng/pageobject/utills/DataProviders.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/ListTitleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/ListTitleScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/SingleChoiceLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/SingleChoiceListsScreen.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/SingleChoiceLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/SingleChoiceListsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/ListTitleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/punkts/Lists/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/punkts/Lists/ListsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/punkts/SingleChoiceLists/SingleChoiceListsTest.java" />
       </list>
     </option>
   </component>
@@ -181,11 +184,6 @@
             <path>
               <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorkAfterLesson19FinalProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWorkAfterLesson19FinalProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allure-results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
@@ -218,6 +216,35 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorkAfterLesson19FinalProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="punkts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorkAfterLesson19FinalProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="punkts" type="462c0819:PsiDirectoryNode" />
+              <item name="Lists" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorkAfterLesson19FinalProject" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="punkts" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleChoiceLists" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWorkAfterLesson19FinalProject" type="b2602c69:ProjectViewProjectNode" />
@@ -312,12 +339,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ListTitleTest">
+  <component name="RunManager" selected="TestNG.ListsTest">
     <configuration name="ListTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeWorkAfterLesson19FinalProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.punkts.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,18 +357,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTitleTest.searchButtonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ListsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HomeWorkAfterLesson19FinalProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.punkts.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ListTitleTest" />
-      <option name="METHOD_NAME" value="searchButtonTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="tests.punkts.Lists" />
+      <option name="MAIN_CLASS_NAME" value="tests.punkts.Lists.ListsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -352,12 +378,12 @@
       <module name="HomeWorkAfterLesson19FinalProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.punkts.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SingleChoiceListsTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.punkts.Lists.SingleChoiceListsTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -369,12 +395,12 @@
       <module name="HomeWorkAfterLesson19FinalProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.punkts.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SingleChoiceListsTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.punkts.Lists.SingleChoiceListsTest" />
       <option name="METHOD_NAME" value="listTitleMessageButtonsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -387,12 +413,12 @@
       <module name="HomeWorkAfterLesson19FinalProject.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="tests.punkts.Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.SingleChoiceListsTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.punkts.Lists.SingleChoiceListsTest" />
       <option name="METHOD_NAME" value="singleChoiceListsButtonsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -403,11 +429,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ListsTest" />
         <item itemvalue="TestNG.ListTitleTest" />
         <item itemvalue="TestNG.SingleChoiceListsTest" />
         <item itemvalue="TestNG.SingleChoiceListsTest.singleChoiceListsButtonsTest" />
         <item itemvalue="TestNG.SingleChoiceListsTest.listTitleMessageButtonsTest" />
-        <item itemvalue="TestNG.ListTitleTest.searchButtonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -425,12 +451,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ListTitleTest_listTitleMessageButtonsTest - 2020.02.10 at 01h 36m 03s.xml">
-      <configuration name="ListTitleTest.listTitleMessageButtonsTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ListTitleTest_searchButtonTest - 2020.02.10 at 01h 37m 20s.xml">
-      <configuration name="ListTitleTest.searchButtonTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="SingleChoiceLists - 2020.02.11 at 01h 15m 51s.xml">
       <configuration name="SingleChoiceLists" configurationId="TestNG" />
     </history-entry>
@@ -449,11 +469,24 @@
     <history-entry file="ListTitleTest - 2020.02.11 at 01h 28m 24s.xml">
       <configuration name="ListTitleTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ListTitleTest - 2020.02.11 at 01h 32m 23s.xml">
+      <configuration name="ListTitleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListsTest - 2020.02.11 at 01h 44m 28s.xml">
+      <configuration name="ListsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListsTest - 2020.02.11 at 01h 47m 21s.xml">
+      <configuration name="ListsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ListsTest - 2020.02.11 at 01h 53m 17s.xml">
+      <configuration name="ListsTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39270386" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31330472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,18 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/ListTitleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setUp#0;class#ListTitleTest#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/ListTitleScreen.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/testng/pageobject/screen/ListsScreen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
@@ -573,13 +595,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/SingleChoiceListsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/SingleChoiceLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/Lists/SingleChoiceListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#setUp#0;class#SingleChoiceLists#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/Lists/ListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setUp#0;class#ListTitleTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/punkts/SingleChoiceLists/SingleChoiceListsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setUp#0;class#SingleChoiceListsTest#0" />
           </folding>
         </state>
       </provider>

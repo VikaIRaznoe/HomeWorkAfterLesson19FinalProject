@@ -19,10 +19,10 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ListTitleScreen implements Button {
+public class ListsScreen implements Button {
     private AppiumDriver<MobileElement> driver;
 
-    public ListTitleScreen(AppiumDriver<MobileElement> driver) {
+    public ListsScreen(AppiumDriver<MobileElement> driver) {
         this.driver = driver;
     }
 

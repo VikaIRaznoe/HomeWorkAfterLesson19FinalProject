@@ -1,12 +1,12 @@
 {
-  "uid" : "cb823e2fa4b3ec0",
+  "uid" : "52cec52b43134efd",
   "name" : "findStrRefactTest",
-  "fullName" : "tests.ListTitleTest.findStrRefactTest",
-  "historyId" : "e8486c4998f7472e28a95bd9c249e94",
+  "fullName" : "tests.punkts.Lists.ListsTest.findStrRefactTest",
+  "historyId" : "ac4cc8d95ff63130762f1407af7ebd0",
   "time" : {
-    "start" : 1581373820816,
-    "stop" : 1581373844328,
-    "duration" : 23512
+    "start" : 1581375328321,
+    "stop" : 1581375350970,
+    "duration" : 22649
   },
   "description" : "После нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS,появляется окно со списком,проверяем список на наличие нужных слов",
   "descriptionHtml" : "<p>После нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS,появляется окно со списком,проверяем список на наличие нужных слов</p>\n",
@@ -16,9 +16,9 @@
   "beforeStages" : [ {
     "name" : "setUp",
     "time" : {
-      "start" : 1581373798364,
-      "stop" : 1581373810686,
-      "duration" : 12322
+      "start" : 1581375307586,
+      "stop" : 1581375318176,
+      "duration" : 10590
     },
     "description" : "",
     "status" : "passed",
@@ -33,9 +33,9 @@
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1581373844336,
-      "stop" : 1581373844539,
-      "duration" : 203
+      "start" : 1581375350984,
+      "stop" : 1581375351163,
+      "duration" : 179
     },
     "description" : "",
     "status" : "passed",
@@ -49,10 +49,10 @@
   } ],
   "labels" : [ {
     "name" : "package",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testClass",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "testMethod",
     "value" : "findStrRefactTest"
@@ -64,13 +64,13 @@
     "value" : "HomeWorkAfterLesson19FinalProject"
   }, {
     "name" : "subSuite",
-    "value" : "tests.ListTitleTest"
+    "value" : "tests.punkts.Lists.ListsTest"
   }, {
     "name" : "host",
     "value" : "MacBook-Pro-Viktoria.local"
   }, {
     "name" : "thread",
-    "value" : "46134@MacBook-Pro-Viktoria.local.main(1)"
+    "value" : "47739@MacBook-Pro-Viktoria.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -78,8 +78,14 @@
     "name" : "language",
     "value" : "java"
   }, {
+    "name" : "feature",
+    "value" : "кнопка LIST + TITLE + MESSAGE + BUTTONS"
+  }, {
     "name" : "epic",
     "value" : "раздел Lists"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
   }, {
     "name" : "resultFormat",
     "value" : "allure2"
@@ -92,11 +98,11 @@
   "hidden" : false,
   "retry" : false,
   "extra" : {
-    "severity" : "normal",
+    "severity" : "blocker",
     "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "cb823e2fa4b3ec0.json",
+  "source" : "52cec52b43134efd.json",
   "parameterValues" : [ "Twitter,Google+,Instagram,Facebook" ]
 }

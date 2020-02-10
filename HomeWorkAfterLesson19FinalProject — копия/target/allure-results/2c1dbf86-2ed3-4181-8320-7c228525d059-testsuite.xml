@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1581373798333" stop="1581373943457" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1581375307553" stop="1581375449931" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Default Suite : HomeWorkAfterLesson19FinalProject</name>
     <title>Default Suite : HomeWorkAfterLesson19FinalProject</title>
     <test-cases>
-        <test-case start="1581373830840" stop="1581373844335" status="passed">
+        <test-case start="1581375338349" stop="1581375350980" status="passed">
             <name>findStrRefactTest[Twitter,Google+,Instagram,Facebook]</name>
             <description></description>
             <steps/>
@@ -11,13 +11,13 @@
             <labels>
                 <label name="testSuite" value="Default Suite"/>
                 <label name="testGroup" value="HomeWorkAfterLesson19FinalProject"/>
-                <label name="testClass" value="tests.ListTitleTest"/>
+                <label name="testClass" value="tests.punkts.Lists.ListsTest"/>
                 <label name="testMethod" value="findStrRefactTest"/>
                 <label name="host" value="MacBook-Pro-Viktoria.local"/>
-                <label name="thread" value="46134@MacBook-Pro-Viktoria.local.main(1)"/>
+                <label name="thread" value="47739@MacBook-Pro-Viktoria.local.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1581373864381" stop="1581373876844" status="passed">
+        <test-case start="1581375370062" stop="1581375382909" status="passed">
             <name>listTitleMessageButtonsQuestionTest</name>
             <description></description>
             <steps/>
@@ -25,13 +25,13 @@
             <labels>
                 <label name="testSuite" value="Default Suite"/>
                 <label name="testGroup" value="HomeWorkAfterLesson19FinalProject"/>
-                <label name="testClass" value="tests.ListTitleTest"/>
+                <label name="testClass" value="tests.punkts.Lists.ListsTest"/>
                 <label name="testMethod" value="listTitleMessageButtonsQuestionTest"/>
                 <label name="host" value="MacBook-Pro-Viktoria.local"/>
-                <label name="thread" value="46134@MacBook-Pro-Viktoria.local.main(1)"/>
+                <label name="thread" value="47739@MacBook-Pro-Viktoria.local.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1581373897319" stop="1581373909265" status="passed">
+        <test-case start="1581375404291" stop="1581375416013" status="passed">
             <name>listTitleMessageButtonsTest</name>
             <description></description>
             <steps/>
@@ -39,13 +39,13 @@
             <labels>
                 <label name="testSuite" value="Default Suite"/>
                 <label name="testGroup" value="HomeWorkAfterLesson19FinalProject"/>
-                <label name="testClass" value="tests.ListTitleTest"/>
+                <label name="testClass" value="tests.punkts.Lists.ListsTest"/>
                 <label name="testMethod" value="listTitleMessageButtonsTest"/>
                 <label name="host" value="MacBook-Pro-Viktoria.local"/>
-                <label name="thread" value="46134@MacBook-Pro-Viktoria.local.main(1)"/>
+                <label name="thread" value="47739@MacBook-Pro-Viktoria.local.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1581373930510" stop="1581373943293" status="passed">
+        <test-case start="1581375437277" stop="1581375449673" status="passed">
             <name>searchButtonTest</name>
             <description></description>
             <steps/>
@@ -53,10 +53,10 @@
             <labels>
                 <label name="testSuite" value="Default Suite"/>
                 <label name="testGroup" value="HomeWorkAfterLesson19FinalProject"/>
-                <label name="testClass" value="tests.ListTitleTest"/>
+                <label name="testClass" value="tests.punkts.Lists.ListsTest"/>
                 <label name="testMethod" value="searchButtonTest"/>
                 <label name="host" value="MacBook-Pro-Viktoria.local"/>
-                <label name="thread" value="46134@MacBook-Pro-Viktoria.local.main(1)"/>
+                <label name="thread" value="47739@MacBook-Pro-Viktoria.local.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

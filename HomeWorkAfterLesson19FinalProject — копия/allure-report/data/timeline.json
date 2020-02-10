@@ -4,61 +4,61 @@
   "children" : [ {
     "name" : "MacBook-Pro-Viktoria.local",
     "children" : [ {
-      "name" : "46134@MacBook-Pro-Viktoria.local.main(1)",
+      "name" : "47739@MacBook-Pro-Viktoria.local.main(1)",
       "children" : [ {
-        "name" : "findStrRefactTest",
-        "uid" : "cb823e2fa4b3ec0",
-        "parentUid" : "eb64bfe366c834a5003fdb33928a2e9b",
-        "status" : "passed",
-        "time" : {
-          "start" : 1581373820816,
-          "stop" : 1581373844328,
-          "duration" : 23512
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
-      }, {
         "name" : "listTitleMessageButtonsTest",
-        "uid" : "4be5c964efea17c3",
-        "parentUid" : "eb64bfe366c834a5003fdb33928a2e9b",
+        "uid" : "9d65dbae7142babd",
+        "parentUid" : "de0e72320f71eb375a123db11a3b5a0e",
         "status" : "passed",
         "time" : {
-          "start" : 1581373892314,
-          "stop" : 1581373909264,
-          "duration" : 16950
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "listTitleMessageButtonsQuestionTest",
-        "uid" : "3e8464c85914dec1",
-        "parentUid" : "eb64bfe366c834a5003fdb33928a2e9b",
-        "status" : "passed",
-        "time" : {
-          "start" : 1581373859374,
-          "stop" : 1581373876843,
-          "duration" : 17469
+          "start" : 1581375399285,
+          "stop" : 1581375416013,
+          "duration" : 16728
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "searchButtonTest",
-        "uid" : "918d811b0a7d14d6",
-        "parentUid" : "eb64bfe366c834a5003fdb33928a2e9b",
+        "uid" : "fb50e61b1f469e3e",
+        "parentUid" : "de0e72320f71eb375a123db11a3b5a0e",
         "status" : "passed",
         "time" : {
-          "start" : 1581373925507,
-          "stop" : 1581373943293,
-          "duration" : 17786
+          "start" : 1581375432271,
+          "stop" : 1581375449672,
+          "duration" : 17401
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "listTitleMessageButtonsQuestionTest",
+        "uid" : "f2b5c3dd96325fe4",
+        "parentUid" : "de0e72320f71eb375a123db11a3b5a0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375365058,
+          "stop" : 1581375382908,
+          "duration" : 17850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "findStrRefactTest",
+        "uid" : "52cec52b43134efd",
+        "parentUid" : "de0e72320f71eb375a123db11a3b5a0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581375328321,
+          "stop" : 1581375350970,
+          "duration" : 22649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Twitter,Google+,Instagram,Facebook" ]
       } ],
-      "uid" : "eb64bfe366c834a5003fdb33928a2e9b"
+      "uid" : "de0e72320f71eb375a123db11a3b5a0e"
     } ],
     "uid" : "216f544ce3ec8fb342fa592298c1e1d8"
   } ]

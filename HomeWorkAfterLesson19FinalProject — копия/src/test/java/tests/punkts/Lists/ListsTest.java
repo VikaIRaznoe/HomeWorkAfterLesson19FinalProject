@@ -1,14 +1,13 @@
-package tests;
+package tests.punkts.Lists;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
-import io.qameta.allure.Description;
-import io.qameta.allure.Epic;
+import io.qameta.allure.*;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
 import org.testng.annotations.*;
-import tests.testng.pageobject.screen.ListTitleScreen;
+import tests.testng.pageobject.screen.ListsScreen;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -17,10 +16,11 @@ import java.util.List;
 
 
 @Epic(value = "раздел Lists")
-public class ListTitleTest {
+@Feature(value = "кнопка LIST + TITLE + MESSAGE + BUTTONS")
+public class ListsTest {
     private AppiumDriver<MobileElement> driver;
 
-    ListTitleScreen listTitleScreen = new ListTitleScreen(driver);
+    ListsScreen listTitleScreen = new ListsScreen(driver);
 
     @BeforeMethod
     public void setUp() throws MalformedURLException {
@@ -44,32 +44,36 @@ public class ListTitleTest {
         driver.quit();
     }
 
+    @Severity(SeverityLevel.BLOCKER)
     @Test
     @Description(value = "Проверяем кликабельность кнопки")
     public void listTitleMessageButtonsTest() throws InterruptedException {
-        ListTitleScreen listTitleScreen = new ListTitleScreen(driver);
+        ListsScreen listTitleScreen = new ListsScreen(driver);
         listTitleScreen.clickButton();
-        //listTitleScreen.getTextOfElement();
     }
 
+    @Severity(SeverityLevel.NORMAL)
     @Parameters("question")
     @Test
     @Description(value = "Проверяем наличие вопроса после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS")
     public void listTitleMessageButtonsQuestionTest() throws InterruptedException {
-        ListTitleScreen listTitleScreen = new ListTitleScreen(driver);
+        ListsScreen listTitleScreen = new ListsScreen(driver);
         listTitleScreen.clickButton();
         Assert.assertEquals(listTitleScreen.getTextOfElement(),"Use Google's Location Services?");
     }
 
+    @Severity(SeverityLevel.NORMAL)
     @Test
     @Description(value = "Проверяем наличие,НЕ РАБОТУ, кнопки Disagree после клика на кнопку LIST + TITLE + MESSAGE + BUTTONS")
     public void searchButtonTest(){
-        ListTitleScreen listTitleScreen = new ListTitleScreen(driver);
+        ListsScreen listTitleScreen = new ListsScreen(driver);
         Assert.assertTrue(listTitleScreen.getButton(),"А где кнопка?");
     }
 
+    @Severity(SeverityLevel.BLOCKER)
     @Test (dataProviderClass = tests.testng.pageobject.utills.DataProviders.class, dataProvider = "dataProvider")
     @Description(value = "После нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS,появляется окно со списком,проверяем список на наличие нужных слов")
+    @Step("Сравниваем эталонный список {data} из файла listText со списком,который появляется после нажатия на кнопку LIST + TITLE + MESSAGE + BUTTONS")
     public void findStrRefactTest(String data) {
 
         //Данные из файла listText
@@ -77,7 +81,7 @@ public class ListTitleTest {
         List<String> stringList = Arrays.asList(str.split(","));
 
         //После нажатия на кнопку появляется окно со списком.Нам нужно сравнить его со списком из файла listText
-        ListTitleScreen listTitleScreen = new ListTitleScreen(driver);
+        ListsScreen listTitleScreen = new ListsScreen(driver);
         List<WebElement> listElements = listTitleScreen.getListTextPunktWindow();
         for(int i = 0; i< listElements.size(); i++) {
             Assert.assertEquals(listElements.get(i).getText(),stringList.get(i));
